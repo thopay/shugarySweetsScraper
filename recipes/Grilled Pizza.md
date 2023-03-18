@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Grilled Pizza
+author: ShugarySweets
+pubDate: 2019-01-15
+description: "We&#x27;ve got some delicious Grilled Pizza Party Ideas for your next get together. From the homemade pizza crust to all the toppings, I&#x27;ve got you covered with everything sweet and savory!"
+image_url: https://www.shugarysweets.com/wp-content/uploads/2016/07/grilled-pizza-1.jpg
+tags: ["Main Dish","American"]
+calories: 701
+protein: 19
+carbohydrates: 108
+fats: 21
+fiber: 5
+ingredients: ["4 cups all-purpose flour, divided","1 envelope Fleischmann's® Pizza Crust Yeast*","2 Tablespoons granulated sugar","1 1/2 teaspoons kosher salt","1 1/3 cups very warm water (about 120°F- 130°F)","1/3 cup olive oil","pizza crust (using recipe above)","basil pesto","sliced tomatoes","mozzarella cheese","small sprinkle of parmesan cheese","pizza crust (using recipe above)","pizza sauce","Italian sausage, cooked and crumbled","mozzarella cheese","other toppings, such as pepperoni, mushrooms, green peppers, onions, as desired","pizza crust (using recipe above)","barbecue sauce","chicken, cooked and diced","red onion, cut into small strips","mozzarella cheese","cilantro","pizza crust, using the recipe above, cooked completely","peanut butter, bananas, chocolate, marshmallows, etc"]
+serves: 8
+time: "25 minutes"
+prepTime: "15 minutes"
+instructions: ["Preheat gas grill to medium-high heat. Using a paper towel drizzled with olive oil, grease the grates to prevent sticking (do this after the grill has been cleaned and preheated, carefully without burning yourself).","While grill is heating, prepare pizza crust. Combine 2 cups of flour, undissolved yeast, sugar and salt in a large bowl. Add the warm water and oil. Mix until well blended, about a minute, then gradually add the remaining flour. Using a dough hook on an electric mixer, knead dough for several minutes until dough forms a nice ball. OR, if you want, knead by hand on lightly floured surface, for about 5 minutes, until dough is smooth and elastic.","Divide dough into 8 portions. Pat or roll dough into 6 to 8-inch circles, they don't need to be perfect! Place each pizza crust onto a separate piece of parchment paper. When transferring dough to the grill, place dough on grill (parchment paper side up), then carefully peel the parchment paper off the back.","Cook for about 3-5 minutes until the bottom of the crust is lightly browned and the top appears set. Using grill tongs, remove crust from grill, grilled side up, to a large platter or cutting board.","If making dessert pizzas, flip the crust and cook an additional 3-5 minutes on opposite side, until crust is completely cooked. Remove from grill.","Assemble all your toppings prior to cooking the dough. Once you've completed step 4 in the pizza crust preparation, and you have removed the pizzas to a large platter or cutting board, begin preparing your pizza.","For the pesto tomato pizza, spread your pesto on the pizza crust (grilled side up). Add your tomato slices and cheese.","For the sausage and cheese, spread your pizza sauce onto the pizza crust (grilled side up). Add your meat (and veggies) and cheese.","For the bbq chicken pizza, spread your bbq sauce onto the pizza crust (grilled side up). Top it with your cooked chicken, red onion, cheese and cilantro.","Return all the pizzas to the hot grill. Cook an additional 3-5 minutes until the bottom crust appears completely cooked. Remove from grill and serve immediately.","For the dessert pizzas, these will be made on completely cooked crusts (following step 5 in crust preparation). Spread your toppings on the cooked crust (peanut butter, bananas, chocolate, etc). Return to grill and heat until chocolate is melted (about 2-3 minutes).","Cut pizzas and serve!"]
+nutrition: ["701 calories","108 grams carbohydrates","13 milligrams cholesterol","21 grams fat","5 grams fiber","19 grams protein","4 grams saturated fat","1008 milligrams sodium","6 grams sugar","0 grams trans fat","16 grams unsaturated fat"]
+---

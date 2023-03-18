@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Chocolate Macarons
+author: ShugarySweets
+pubDate: 2020-10-26
+description: "The delicate French meringue cookie made even more indulgent with the addition of chocolate. Chocolate Macarons spread with peanut butter buttercream are a little bite of Parisian heaven!"
+image_url: https://www.shugarysweets.com/wp-content/uploads/2021/01/chocolate-macarons-facebook.jpg
+tags: ["Cookies","French"]
+calories: 84
+protein: 2
+carbohydrates: 11
+fats: 4
+fiber: 1
+ingredients: ["75 grams almond flour","65 grams powdered sugar","10 grams cocoa powder","75 grams egg whites","75 grams granulated sugar","1/4 cup creamy peanut butter","2 tablespoon butter, softened","3/4 cup powdered sugar","1 teaspoon vanilla extract","1 tablespoon heavy cream, if needed"]
+serves: 24
+time: "1 hour 10 minutes"
+prepTime: "1 hour"
+instructions: ["Line two large sheet pans with parchment paper. Make sure the parchment paper lies flat so you can achieve perfectly round macarons. Add the almond flour, powdered sugar, and cocoa powder to a fine mesh sieve set over a large bowl. Sift the dry ingredients into the bowl, discarding any large lumps that remain. Set aside.","Fill a small saucepan half way with water. Bring it to a boil over high heat. In the bowl of a stand mixer, combine the egg whites and granulated sugar. Remove the saucepan of water from the heat and place the bowl on top of the water.","Whisk the egg whites until the sugar has dissolved— about 2 minutes.","Return the bowl to the stand mixer and whip on medium-high speed using the wire whisk until stiff peaks form.Once the meringue has reached a stiff peak, add half of the dry ingredients and fold it into the egg whites using a silicone spatula.","Once no large lumps remain, add the second half of the dry ingredients and repeat the folding until they are fully incorporated.","Next, deflate the meringue by smushing the batter against the sides of the bowl and then folding it back onto itself. Repeat until the meringue is at the “lava stage”.","Transfer the meringue to a piping bag fitted with a round tip (I like a Wilton #10). Pipe 1” circles about 2” apart on the parchment-lined baking sheet.","Hold the tray a few inches off the counter and drop it straight down to release any air bubbles. Repeat 5 times, or until you don’t see any large air bubbles.","Allow the macarons to rest at room temperature for at least 20 minutes, or until they have developed a skin. While the macarons rest, preheat your oven to 315F.","When the macarons are ready to bake, you should be able to touch them without the batter sticking to your finger.","Bake the macarons in a pre-heated oven for 10-12 minutes, or until they are set and no longer wet in the center.","Leave the macarons on the baking sheet until they’ve cooled to room temperature.","In the bowl of a stand mixer fitted with the paddle attachment, cream together the peanut butter and softened butter until light and fluffy. Add the vanilla and mix until incorporated.","With the mixer on low, slowly add in the powdered sugar. When all of the powdered sugar has been added, turn the mixer to high and allow the icing to whip until light and soft— about 2 minutes.","If the mixture is dry and not coming together properly, add the heavy cream and whip on high again until light and fluffy.","Transfer the filling to a piping bag and set aside.","Once the macarons have cooled, place them in similar sized pairs. Pipe a small dollop of frosting in the center of one macaron.","Then, place the seance shell on top and gently press down so the filling spreads to the edges. Repeat with the remaining macarons. Drizzle with melted chocolate chips, if desired.","Store the macarons in an airtight container in the refrigerator to age overnight. Bring to room temperature before serving."]
+nutrition: ["84 calories","11 grams carbohydrates","3 milligrams cholesterol","4 grams fat","1 grams fiber","2 grams protein","1 grams saturated fat","26 grams sodium","9 grams sugar","0 grams trans fat","3 grams unsaturated fat"]
+---

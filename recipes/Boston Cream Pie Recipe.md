@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Boston Cream Pie Recipe
+author: ShugarySweets
+pubDate: 2021-03-15
+description: "This classic Boston Cream Pie recipe brings together light sponge cake and a divine custard filling. With a sweet chocolate glaze and homemade pastry cream, Boston Cream Pie has everyone coming back for more!"
+image_url: https://www.shugarysweets.com/wp-content/uploads/2022/04/boston-cream-pie-facebook.jpg
+tags: ["Cake","American"]
+calories: 492
+protein: 10
+carbohydrates: 56
+fats: 26
+fiber: 2
+ingredients: ["2 cups half and half","6 large egg yolks, room temperature","1/2 cup granulated sugar","pinch salt","1/4 cup all-purpose flour","4 Tablespoons unsalted butter, cold (cut into cubes)","2 teaspoons vanilla extract","1 1/2 cups all-purpose flour","1 1/2 teaspoons baking powder","1/2 teaspoon kosher salt","3/4 cup whole milk","6 Tablespoons unsalted butter","1 1/2 teaspoons vanilla extract","3 large egg whites, room temperature","1 1/2 cups granulated sugar","1/2 cup heavy whipping cream","2 Tablespoons light corn syrup","4 ounce bittersweet chocolate, chopped"]
+serves: 12
+time: "3 hours 10 minutes"
+prepTime: "30 minutes"
+instructions: ["In a medium size saucepan over medium heat, add half-and-half. Heat just until simmering.","While that is warming up, whisk the egg yolks, sugar, and salt in a bowl until smooth. Add the flour to the egg mixture and whisk until fully incorporated. Remove the half-and-half from heat and while whisking, slowly add 1/2 cup of the warm half and half to the yolk mixture to temper. While whisking constantly, return the tempered yolk mixture to the remaining half-and-half in the saucepan.","Turn the heat to medium and cook, whisking continuously, until the mixture becomes slightly thickened (about 1-2 minutes). Reduce heat to low-medium and simmer, while whisking constantly, for 8 minutes.","After 8 minutes, increase the heat to medium, whisking constantly, until a rolling bowl (bubbles on the surface), for 1-2 minutes.","Remove from heat, whisk in cold butter cubes and vanilla extract until melted and fully blended.","Top with plastic wrap (press it on the surface) and refrigerate for at least 2 hours or up to 24 hours.","Preheat oven to 325 degrees F. Grease two 9-inch cake pans and line with parchment paper. Spray with baking spray.","In a medium bowl, combine flour, baking powder, and salt. Set aside.","In a small saucepan over low heat, add milk and butter, and cook until butter is melted. Remove from heat and add in the vaniklla extract. Set aside.","In a large mixing bowl (stand mixer), using the whisk attachment, beat egg whites with sugar until light and airy (about 5 minutes). Add the hot milk mixture and whisk by hand until fully incorporated. Add in the dry ingredients, mixing by hand until blended.","Working quickly, divide batter into the two prepared pans. Smooth the top with a spatula. Bake for 20-22 minutes, until tops are lightly browned and a toothpick inserted in the center comes out clean.","Transfer cakes to cooling rack and allow to cool completely IN THE PANS (about 2 hours).","Run a knife around the edges, and invert cakes onto cooling rack once cooled. Remove parchment paper and carefully turn the cakes right side up.","In a small saucepan over medium heat, combine cream and corn sryup.","Allow to simmer, then remove from heat. Add chocolate and let sit for 5 minutes. Whisk until smooth.","To assemble. Place 1 cake layer on cake platter. Whisk the cold pastry cream gently, then spoon onto center of cake. Using a spatula, spread evenly to the edges.","Place the second cake layer over the pastry cream (bottom side up). Press lightly.","Pour glaze onto center of top layer of cake. Let the excess drip down the edges.","Serve and enjoy!"]
+nutrition: ["492 calories","56 grams carbohydrates","161 milligrams cholesterol","26 grams fat","2 grams fiber","10 grams protein","15 grams saturated fat","215 milligrams sodium","39 grams sugar","0 grams trans fat","9 grams unsaturated fat"]
+---

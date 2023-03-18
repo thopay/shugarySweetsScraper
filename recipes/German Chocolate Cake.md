@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: German Chocolate Cake
+author: ShugarySweets
+pubDate: 2019-05-19
+description: "This German Chocolate Cake recipe, from scratch, is decadent and sweet with the rich chocolate cake layers topped with coconut pecan frosting! Add some chocolate buttercream frosting to put this cake recipe over the top!"
+image_url: https://www.shugarysweets.com/wp-content/uploads/2019/05/german-chocolate-cake-1-1.jpg
+tags: ["Cake","American"]
+calories: 666
+protein: 8
+carbohydrates: 81
+fats: 36
+fiber: 2
+ingredients: ["1 cup hot water","4 ounce Baker's Sweetened German Chocolate Bar","2 cups granulated sugar","1 3/4 cup all-purpose flour","1 1/2 teaspoons baking powder","1 1/2 teaspoons baking soda","1 teaspoon kosher salt","1 cup unsalted butter, softened","2 large eggs,","1 cup buttermilk","2 teaspoons vanilla extract","1/2 cup unsalted butter","1/2 cup light brown sugar, packed","1/2 cup granulated sugar","3 large egg yolks, room temperature","1/2 teaspoon kosher salt","1 cup evaporated milk","1 teaspoon vanilla extract","1 cup chopped pecans","1 cup shredded sweetened coconut","1/2 cup unsalted butter, softened","2/3 cup unsweetened cocoa powder","3 cups powdered sugar","1/2 cup evaporated milk","1 teaspoon vanilla extract"]
+serves: 16
+time: "1 hour 10 minutes"
+prepTime: "30 minutes"
+instructions: ["Preheat oven to 350 degrees F. Grease two 9-inch round baking pans with baking spray and line bottom with parchment paper circles. Set aside.","In a small bowl, combine 1 cup of boiling water with a 4 oz package of German Chocolate. Allow chocolate to melt while you combine the sugar, flour, baking powder, baking soda, and salt in a separate bowl.","In a large mixing bowl, beat butter with eggs and buttermilk until combined. Add in vanilla extract.","Mix in dry ingredients to the buttermilk mixture. Finally, whisk the chocolate with the water to combine and add to cake batter. Beat just until combined, scraping down the sides of the bowl as needed.","Pour into prepared baking pans and bake for 36-38 minutes, until toothpick inserted in the center comes out clean.","PRO TIP: Use Wilton bake even strips to wrap around your baking pans to create smooth, even cakes that don't dome on the top and create waste!","Remove from oven and cool in pans 5 minutes. Invert onto parchment paper lined wire rack and cool completely.","In a medium sized saucepan, combine butter, brown sugar, granulated sugar, room temperature egg yolks, salt, and evaporated milk. Over medium-low heat, bring the mixture to a low boil. ","PRO TIP: Use a whisk or rubber spatula to continually scrape the bottom of the saucepan while stirring so it doesn't burn or create build up!","Continue cooking until mixture thickens into a custard-like texture. This can take 8-12 minutes depending on many factors including the type of saucepan you're using, the size of the pan, and the type of heat. ","Once your frosting base has thickened, add in vanilla extract, chopped pecans, and shredded sweetened coconut. Stir and set aside until cooled. ","PRO TIP: I refrigerate the coconut pecan frosting to speed up the cooling time!","To make the frosting, in a mixing bowl, beat butter with unsweetened cocoa powder, powdered sugar, evaporated milk, and vanilla extract.","Beat for about 5 minutes, scraping down the sides of the bowl as needed.","Lay the first layer of chocolate cake on a cake platter. Pipe the edges with chocolate frosting. Add 1/2 of the coconut pecan frosting to the center of the cake. Repeat with the second layer.","Spread chocolate buttercream frosting around the sides of the cake.","Using an open star tip, pipe swirls on top of cake to give it a finished look (optional).","Slice and serve!"]
+nutrition: ["666 calories","81 grams carbohydrates","140 milligrams cholesterol","36 grams fat","2 grams fiber","8 grams protein","19 grams saturated fat","486 milligrams sodium","66 grams sugar","0 grams trans fat","14 grams unsaturated fat"]
+---

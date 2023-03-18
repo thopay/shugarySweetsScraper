@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Lemon Cheesecake Cake
+author: ShugarySweets
+pubDate: 2021-01-13
+description: "Can&#x27;t decide between Lemon Cheesecake and Lemon Cake? Layer them together with this amazing Lemon Cheesecake Cake recipe! Two moist layers of lemon cake with a layer of creamy cheesecake. All topped with a buttercream frosting bursting with lemon flavor!"
+image_url: https://www.shugarysweets.com/wp-content/uploads/2021/05/lemon-cheesecake-cake-facebook.jpg
+tags: ["Cake","American"]
+calories: 573
+protein: 7
+carbohydrates: 90
+fats: 22
+fiber: 0
+ingredients: ["½ cup unsalted butter, softened","1 package (8 oz) cream cheese, softened","5 cups powdered sugar","2 Tablespoons heavy cream","1 lemon, juiced and zested","2 packages (8 oz each) cream cheese, softened","1 cup granulated sugar","¼ teaspoon kosher salt","2 large eggs","¼ cup sour cream","⅓ cup heavy whipping cream","4 large eggs","¾ cup milk","¾ cup unsalted butter, softened","1 ¾ cup granulated sugar","1 teaspoon vanilla extract","1 lemon, zested and juiced","3 cups cake flour","1 Tablespoon baking powder","½ teaspoon kosher salt"]
+serves: 16
+time: "6 hours"
+prepTime: "2 hours"
+instructions: ["Whisk together the eggs and ¼ cup of the milk in a small bowl until slightly combined. Set aside.","In a mixing bowl, beat butter, sugar, vanilla, lemon zest, and lemon juice for 2 minutes on medium speed, scraping down the sides of the bowl as needed. Add in dry ingredients and mix until combined. Beat in egg mixture until fully blended.","Add in remaining milk and beat for 3-4 minutes, scraping down the sides of the bowl.","Spray two 9-inch cake pans with baking spray. Pour batter into pans and bake in a 350 degree oven for 26-28 minutes. Remove and cool completely on wire rack.","Prepare the cheesecake layer first. This can be done early in the day, or the night before. If freezing the cheesecake, can be stored 1-2 weeks in the freezer.","Preheat oven to 325 degrees. Using a large roasting pan, add 1 inch of water to the pan. Place it on the lowest rack of the oven! Allow it to preheat in the oven.","Prepare 9-inch springform pan by lining the bottom (inside) with a circle of parchment paper.","Beat cream cheese with granulated sugar for 2-3 minutes until creamy. Add in salt and eggs, one at a time, beating well after each addition.","Beat in sour cream and heavy cream, until light and fluffy (about 2 minutes). Pour into prepared 9-inch springform pan. Place pan in center of preheated oven, with the roasting pan of water on the lowest rack. The cake will not SIT in the water, but still get the benefit of a water bath by being in the oven with it.","Bake cheesecake for 45 minutes. Turn oven off and let cheesecake sit in oven for an additional 30 minutes. Remove and cool completely on counter.","When cooled, remove outside portion of the springform pan and place into the freezer for several hours or overnight. I put it in freezer for about 2 hours. If using within 24 hours, feel free to just refrigerate cheesecake!","Beat butter and cream cheese for 3 minutes using whisk attachment on an electric mixer. Add in powdered sugar, heavy cream, and lemon juice and zest. Beat an additional 4-5 minutes, scraping down the sides of the bowl as needed.","To assemble, place one layer of cake on a cake stand. Add the cheesecake on top (if you're not serving immediately, you can place the frozen cheesecake on top. It will take an hour or so to thaw at room temperature).","Add the second layer of cake then frost the top and side with buttercream.","Store in refrigerator until ready to serve."]
+nutrition: ["573 calories","90 grams carbohydrates","124 milligrams cholesterol","22 grams fat","0 grams fiber","7 grams protein","13 grams saturated fat","224 grams sodium","69 grams sugar","0 grams trans fat","7 grams unsaturated fat"]
+---

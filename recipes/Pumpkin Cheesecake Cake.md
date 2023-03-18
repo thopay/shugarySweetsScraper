@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Pumpkin Cheesecake Cake
+author: ShugarySweets
+pubDate: 2018-10-15
+description: "Pumpkin Cheesecake Cake: two layers of delicious pumpkin cake with a creamy cheesecake center. Frosted with cream cheese frosting! You&#x27;ll love this holiday dessert."
+image_url: https://www.shugarysweets.com/wp-content/uploads/2019/11/pumpkin-cheesecake-cake-facebook.jpg
+tags: ["Cake","American"]
+calories: 492
+protein: 7
+carbohydrates: 79
+fats: 18
+fiber: 1
+ingredients: ["1 can (15 ounce) pure pumpkin puree","1 cup granulated sugar","1 cup light brown sugar, packed","3/4 cup applesauce","4 large eggs","2 1/4 cup all-purpose flour","2 teaspoons baking powder","2 teaspoons baking soda","1 teaspoon kosher salt","1 Tablespoon ground cinnamon","1/2 teaspoon ground cloves","1 teaspoon ground ginger","1 teaspoon ground nutmeg","2 packages (8 ounce each) cream cheese, softened","2/3 cup granulated sugar","pinch of salt","2 large eggs","1/3 cup sour cream","1/3 cup heavy whipping cream","1 teaspoon vanilla extract","1/2 cup butter, softened","8 ounce cream cheese, softened","1 teaspoon vanilla extract","4 cups powdered sugar","3 Tablespoons heavy cream","3 Tablespoons pecanss, chopped","1 Tablespoon caramel sauce "]
+serves: 16
+time: "6 hours"
+prepTime: "1 hour"
+instructions: ["Preheat oven to 325 degrees. Using a large roasting pan on the lower 2/3 of the oven, preheat the pan too!","Prepare springform pan by wrapping bottom of pan (outside) with double layer of foil. Spray pan with nonstick baking spray and line bottom (inside) with a circle of parchment paper.","Meanwhile, boil a kettle of water to use later.","Beat cream cheese with granulated sugar for 2-3 minutes until creamy. Add in salt and eggs, one at a time, beating well after each addition. Beat in sour cream, heavy cream and vanilla.","Pour into prepared 9inch springform pan. Place pan in center of preheated roasting pan in the oven. Pour boiling water slowly into the roasting pan, until there is about an inch of water coming up the sides of the springform pan.","Bake cheesecake for 45 minutes. Turn oven off and let cheesecake sit in oven for an additional 30 minutes. Remove and cool completely on counter.","When cooled, transfer entire springform pan into the freezer for several hours or overnight. I put it in the freezer for about 2 hours. **If using within 24 hours, feel free to just refrigerate cheesecake!","Preheat oven to 350 degrees. Prepare two 9inch round cake pans by spraying generously with baking spray. Line bottom of each pan with a circle of parchment paper. Set aside.","Beat pumpkin, sugars, applesauce and eggs until fully blended. Add in flour, baking powder, baking soda, salt and seasonings. Pour batter into prepared pans.","Bake cakes for 30-35 minutes, until toothpick comes out clean. Cool in pans 15 minutes. Flip onto wire rack and cool completely. When cooled, wrap each layer in saran wrap and freeze for two hours, or overnight. **If using within 24 hours, just wrap cake in saran wrap and keep on counter.","Beat butter and cream cheese for 3 minutes until smooth and creamy. Beat in vanilla, powdered sugar and heavy cream.","To assemble cake, lay one layer of pumpkin cake on cake plate. Top with cheesecake and second layer of pumpkin cake. Frost sides and top with a thin layer of frosting to apply a crumb coat. Refrigerate 30 minutes to an hour. Remove from refrigerator and frost remaining cake, decorating using a tip if desired. Sprinkle pecans on top of cake and drizzle with caramel sauce. I keep the cake covered in the refrigerator until ready to eat. Remove and allow to sit about 15 minutes before slicing. ENJOY!"]
+nutrition: ["492 calories","79 grams carbohydrates","114 milligrams cholesterol","18 grams fat","1 grams fiber","7 grams protein","10 grams saturated fat","458 milligrams sodium","63 grams sugar","0 grams trans fat","6 grams unsaturated fat"]
+---
